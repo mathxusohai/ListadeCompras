@@ -9,7 +9,7 @@
 ##### [Visual Studio Code] (https://code.visualstudio.com/)
 
 ###### Conclusão do Projeto:
-Anexo: ! [Projeto em Funcionamento](https://github.com/mathxusohai/ListadeCompras/blob/main/Screen/Print%20Funcionando..PNG)
+Anexo: ![Projeto em Funcionamento](https://github.com/mathxusohai/ListadeCompras/blob/main/Screen/Print%20Funcionando..PNG)
 
 
 ###### Link site sobre React: <https://www.hostinger.com.br/tutoriais/o-que-e-react-javascript>
